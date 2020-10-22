@@ -1,5 +1,5 @@
 # The Open Archaeobotanist
-***This is blog site about my open work, open things I get up to and other peoples open work!***
+***This is a blog site about my open work, open things I get up to and other peoples open work!***
 
 
 
