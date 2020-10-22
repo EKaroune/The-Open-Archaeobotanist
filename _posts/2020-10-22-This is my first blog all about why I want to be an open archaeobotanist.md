@@ -9,6 +9,6 @@ tags: [open science, archaeobotany]
 ---
 
 
-![Imapct of Open Workflows](asset/img/open research impact.png)
+![Imapct of Open Workflows](/asset/img/open research impact.png)
 
 
