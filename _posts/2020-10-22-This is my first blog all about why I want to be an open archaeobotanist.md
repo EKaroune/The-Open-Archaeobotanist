@@ -9,6 +9,4 @@ tags: [open science, archaeobotany]
 ---
 
 
-# Why I want to be an open archaeobotanist?
 
-***Coming soon!***
