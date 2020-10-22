@@ -1,4 +1,4 @@
-# The Open Archaeobotanist
+
 ***This is a blog site about my open work, open science things I get up to and other peoples open work!***
 
 
