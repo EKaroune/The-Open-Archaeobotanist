@@ -219,7 +219,8 @@ plugins:
   
 footer_content: "Copyright &copy; 2020 Emma Karoune. Distributed under a <a href=\"https://ekaroune.github.io/The-Open-Archaeobotanist/\">CC-BY-4.0 license.</a>"
 
-footer_extra: _includes/license.html
+footer_extra: includes/license.html
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
