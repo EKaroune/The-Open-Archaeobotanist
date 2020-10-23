@@ -1,6 +1,14 @@
-
+---
+layout: page
+title: License
+subtitle: This is the license for this site.
+---
 
 ## License:
+
+It's important to put a license on all of your work and then anyone that reads it knows how it can be reused.
+
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
