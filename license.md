@@ -1,7 +1,6 @@
 ---
 layout: page
 title: License
-subtitle: This is the license for this site.
 ---
 
 ## License:
