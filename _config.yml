@@ -9,9 +9,8 @@ author: Emma Karoune
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-About Me: "aboutme"
-License: "license"
-
+  About Me: "aboutme"
+  License: "license"
 
 # --- Logo --- #
 
