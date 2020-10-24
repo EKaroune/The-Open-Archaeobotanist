@@ -2,6 +2,7 @@
 layout: post
 title: Why I want to be an open archaeobotanist?
 subtitle: First blog post
+gh-repo: ekaroune/the-open-archaeobotanist
 cover-img: asset/img/open access image.png
 thumbnail-img: asset/img/open access image.png
 share-img: asset/img/open access image.png
