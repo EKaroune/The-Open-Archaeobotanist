@@ -6,7 +6,7 @@ subtitle: Who I am and what I do
 
 ## I'm Dr Emma Karoune
 
-![EK avatar](https://github.com/EKaroune/The-Open-Archaeobotanist/blob/main/asset/img/EK%20avatar.jpg)
+![EK avatar](../asset/img/EK avatar.jpg)
 
 I work as an archaeobotanist. This is a scientist that examines plant material from archaeological sites to find out about the use of plants and also how landscapes might have been changed by humans. I specialise in [macro-botanical remains](https://www.theposthole.org/read/article/222), which are seeds and other larger plant bits that have often been charred or waterlogged so that they are preserved. But I also specialise in [phytoliths](https://en.wikipedia.org/wiki/Phytolith), which are silica shapes that form within and between cells of living plants. These become deposited in the soil when the plant dies and can be preserved for thousands of years.
 
