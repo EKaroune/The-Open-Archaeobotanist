@@ -15,9 +15,8 @@ Research should be shared. As researchers we are often funded by public funds an
 ### The harder question is *when* should we share our research? 
 Often this happens close to the end of the research lifecycle but I think that we should be sharing our research throughout. Being open from the start of the research lifecycle will have much more impact for your research. This is often called an Open Workflow (see the diagram below). It's also important to share research in different ways as it is often relevant to diverse audiences. For example, within the academic community as a research article, to different specialist audiences outside of our field through talks at different conferences and also to lay audiences by writing lay summaries or blogs.
 
-[![open research impact][open-research-impact]][the-open-archaeobotanist]
+![open research impact][open-research-impact]
 
-[the-open-archaeobotanists]: https://github.com/EKaroune/The-Open-Archaeobotanist 
 [open-research-impact]: https://github.com/EKaroune/The-Open-Archaeobotanist/blob/main/asset/img/openresearchimpact.png
 
 ### What should we be sharing?
