@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Who I am and what I do
+gh-repo: ekaroune/the-open-archaeobotanist
 ---
 
 ## I'm Dr Emma Karoune
