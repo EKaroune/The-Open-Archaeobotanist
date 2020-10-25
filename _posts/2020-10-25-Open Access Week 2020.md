@@ -3,23 +3,24 @@ layout: post
 title: Open Access Week 2020
 subtitle: Review of Open and Engaged 2020
 gh-repo: ekaroune/the-open-archaeobotanist
-cover-img: 
-thumbnail-img: 
-share-img: 
+cover-img: asset/img/open access week logo.png
+thumbnail-img: asset/img/open access week logo.png
+share-img: asset/img/open access week logo.png
 tags: [open science, open access]
 ---
 
 # Open Access Week
-## Review of Open and Engaged Conference 2020: inequalities in scholarly communication hosted by the British library 
-### Monday 19th October 2020
+## Review of Open and Engaged Conference 2020: inequalities in scholarly communication hosted by the British library - Monday 19th October 2020
 
 Open access week (19th-25th October 2020) had lots of interesting events but I chose to attend the Open and Engaged conference on inequalities in scholarly communication hosted by the British library.  It had three sessions: creating a more equitable publishing ecosystem, interventions beyond libraries and widening participation in open research. It was an online conference, which is becoming the new norm for academic events. All of the speakers were incredibly inspiring in terms of their open research and it was a bit of a shame that we were not able to ask them questions as it was such a packed schedule. However, there was a stream of appreciative messages flying on to twitter throughout the day. 
 
-I want to draw out three issues that were raised during the day that I think as open science practitioners we need to be aware of and try to address:
+***I want to draw out three issues that were raised during the day that I think as open science practitioners we need to be aware of and try to address:***
 
-Open Access (OA) publishing needs to change - the APC fees that are required for gold open access are disadvantaging some researchers and this is not going to improve with the transformative deals that are currently being made between institutions and publishers. It was clear from two talks given that the global south are doing a better job at making science for the public good!
+## Open Access (OA) publishing needs to change
 
-Reggie Raju, from the University of Cape Town, talked about a social justice driven OA model where institutions publish their own research freely to bridge the information divide between the global north and global south. He pointed out -  “If there is no subscription budget then what is there to transform” - meaning that institutions in the global south have to do things differently.
+The APC fees that are required for gold open access are disadvantaging some researchers and this is not going to improve with the transformative deals that are currently being made between institutions and publishers. It was clear from two talks given that the global south are doing a better job at making science for the public good!
+
+[Reggie Raju](https://www.researchgate.net/profile/Reggie_Raju2), from the University of Cape Town, talked about a social justice driven OA model where institutions publish their own research freely to bridge the information divide between the global north and global south. He pointed out -  “If there is no subscription budget then what is there to transform” - meaning that institutions in the global south have to do things differently.
 
 Arianna Becerril-Garcia presented the publishing situation in Latin America, which is a non-for-profit non-APC academy owned open access publishing system. That's a bit of a mouth full but basically means it is free to all! She explained how well established it is with many benefits such as open source software and research metrics. It was a surprise to me that this type of system existed. Coming from Britain, where we now pay as authors to publish openly and also pay to read non-open papers, I thought that commercial publishers were dominant worldwide. 
 
