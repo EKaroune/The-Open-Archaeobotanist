@@ -11,6 +11,8 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## A
 
+* **Altmetrics**: A project that produces article level metrics of scholarly articles from information collected from the Internet, such as social media sites, newspapers, and other sources.
+
 * **Archaeobotany**: the study of plant remains from archaeological sites.
 
 * **Article processing charge (APC)**: also known as a publication fee, is a fee which is sometimes charged to authors to make a work available open access in either an open access journal or hybrid journal. This fee may be paid by the author, the author's institution, or their research funder.
@@ -30,6 +32,8 @@ gh-repo: ekaroune/the-open-archaeobotanist
 ## G
 
 * **Gold route**: The Gold route to open access is delivered via publishing an article in a journal. The journal may be an open access journal (pure open access), or a subscription based journal (hybrid open access) that offers an open access option. This is currently paid for by an APC.
+
+* **Green route**: The Green route to open access is delivered via self-archiving (depositing) an output into a repository. There are two types of repositories, institutional and subject repositories.
 
 ## H
 
@@ -57,11 +61,17 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 * **Open Education**: education without academic admission requirements and is typically offered online. Open education broadens access to the learning and training traditionally offered through formal education systems.
 
+* **Open hardware**: physical artifacts of technology designed and offered by the open-design movement.
+
 * **Open lab/notebooks**: laboratory research records, diaries, journals, workbooks etc., offered online free of cost with terms that allow reuse and redistribution of the recorded material.
+
+* **Open reproducible research**: The act of practicing Open Science and the provision of offering to users free access to experimental elements for research reproduction.
 
 * **Open repositories**: open archives that host scientific literature and make their content freely accessible to everyone in the world.
 
 * **Open Science**: the movement to make scientific research (including publications, data, physical samples, and software) transparent and accessible to all.
+
+* **Open source**: software where the source code is available free of cost with terms that allow dissemination and adaptation.
 
 * **Open workflow tools**: apparatuses and services that promote open scientific projects.
 
