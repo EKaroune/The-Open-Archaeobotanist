@@ -11,6 +11,8 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## A
 
+* **Archaeobotany**: the study of plant remains from archaeological sites.
+
 ## B
 
 ## C
@@ -47,7 +49,17 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 * **Open access**: the practice through which research outputs are distributed online, free of cost or other access barriers. 
 
+* **Open data**: data that anyone can access, use and share.
+
+* **Open Education**: education without academic admission requirements and is typically offered online. Open education broadens access to the learning and training traditionally offered through formal education systems.
+
+* **Open lab/notebooks**: laboratory research records, diaries, journals, workbooks etc., offered online free of cost with terms that allow reuse and redistribution of the recorded material.
+
+* **Open repositories**: open archives that host scientific literature and make their content freely accessible to everyone in the world.
+
 * **Open Science**: the movement to make scientific research (including publications, data, physical samples, and software) transparent and accessible to all.
+
+* **Open workflow tools**: apparatuses and services that promote open scientific projects.
 
 ## P
 * **Phytoliths**: microscopic silica bodies formed in living plant cells.
