@@ -5,9 +5,9 @@ subtitle: If you are not sure what some of the terms mean in the blogs on this w
 gh-repo: ekaroune/the-open-archaeobotanist
 ---
 
-# [A](#a)  [B](#b)  [C](#c)  [D](#d)  [E](#e)  [F](#F)  [G](#G)  [H](#H)  [I](#I)  [J](#J)  [K](#K)  [L](#L)  [M](#M)
+# [A](#a)     [B](#b)     [C](#c)     [D](#d)     [E](#e)     [F](#f)     [G](#g)     [H](#h)     [I](#i)     [J](#j)     [K](#k)     [L](#l)     [M](#m)
 
-# [N](#N)  [O](#O)  [P](#P)  [Q](#Q)  [R](#R)  [S](#S)  [T](#T)  [U](#U)  [V](#V)  [W](#W)  [X](#X)  [Y](#Y)  [Z](#Z)
+# [N](#n)     [O](#o)     [P](#p)     [Q](#q)     [R](#r)     [S](#s)     [T](#t)     [U](#u)     [V](#v)     [W](#w)     [X](#x)     [Y](#y)     [Z](#z)
 
 ## A
 
