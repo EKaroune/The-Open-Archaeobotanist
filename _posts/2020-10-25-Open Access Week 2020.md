@@ -24,7 +24,7 @@ The APC fees that are required for gold open access are disadvantaging some rese
 
 [Arianna Becerril-Garcia](http://ariannabecerril.info/) presented the publishing situation in Latin America, which is a non-for-profit non-APC academy owned open access publishing system. That's a bit of a mouth full but basically means it is free to all! She explained how well established it is with many benefits such as open source software and research metrics. It was a surprise to me that this type of system existed. Coming from Britain, where we now pay as authors to publish openly and also pay to read non-open papers, I thought that commercial publishers were dominant worldwide. 
 
-![Latin American publishing](../asset/img/Latin American publishing.png)
+![Latin American publishing](./asset/img/Latin American publishing.png)
 
 The image shows Arianna Becerril-Garcia talking about science as a public good in Latin America.
 
@@ -39,6 +39,11 @@ After a year when Black lives matter has come to the forefront of all researcher
 [Melissa Bennett](https://www.archivozmagazine.org/en/decolonising-the-archive-responsibilities-for-researchers-and-archive-professionals-part-i/) spoke very honestly and passionately about her work concerning decolonising archives. How we have to realise that our work is coming from an area of privilege (if we are based in the UK or US) and we have to reach out to those who the story is about. She also drew our attention to the way that unconscious bias can creep into archives and academic work. She showed us an example of her own work where she had been picked up for using inappropriate phasing and also showed labels from archives that had not described photos fully meaning certain individuals seemed less important. These were important reminders that we need to be careful to check our work and think about presenting it to the audience most affected by it.
 
 Being a UCL Alumni myself, I was fascinated to hear about the project [Bricks and mortals](https://www.ucl.ac.uk/culture/projects/bricks-mortals) - a history of eugenics told through buildings, by Subhadra Das. She explained that many of the buildings are named after academics, such as Francis Galton, who in 1883 coined the term ‘eugenics’ - the study of human characteristics passed on through the generations with a view to improving the human species. She said that we need to acknowledge that this was not right - “Racism = Racism”. Many of the buildings names are now being changed but her project aims to highlight this history to bring it out into the open.
+
+![UCL project](./asset/img/UCL project.png)
+
+Subhadra Das talking about addressing the uncomfortable history of UCL academics by acknowledging it exists.
+
 
 Personal connections to research often make the best projects and this was definitely demonstrated by Majd Al-Shihabi, who told us about [Palestine open maps](https://palopenmaps.org/). He explained how he is digitizing a large collection of maps from the 1940s to preserve the history of Palestine since many villages have been erased through Israeli settlement. He showed us the village of his grandparents that has now completely disappeared and talked about how his grandmother is helping him to translate the names of villages back into arabic. The project will also capture other geographic and historical information such as village statistics, historical photos and oral histories to become an invaluable resource to show the transformation in the human geography of historic Palestine over the past 70+ years.
 
