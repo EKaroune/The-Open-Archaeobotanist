@@ -1,5 +1,13 @@
-
-
+---
+layout: post
+title: Open Access Week 2020
+subtitle: Review of Open and Engaged 2020
+gh-repo: ekaroune/the-open-archaeobotanist
+cover-img: 
+thumbnail-img: 
+share-img: 
+tags: [open science, open access]
+---
 
 # Open Access Week
 ## Review of Open and Engaged Conference 2020: inequalities in scholarly communication hosted by the British library 
