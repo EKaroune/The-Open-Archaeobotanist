@@ -124,6 +124,8 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## V
 
+* **Version Control**: version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
+
 ## W
 
 ## X
