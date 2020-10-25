@@ -76,13 +76,15 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 * **Open data**: data that anyone can access, use and share.
 
-* **Open Education**: education without academic admission requirements and is typically offered online. Open education broadens access to the learning and training traditionally offered through formal education systems.
+* **Open education**: education without academic admission requirements and is typically offered online. Open education broadens access to the learning and training traditionally offered through formal education systems.
 
 * **Open hardware**: physical artifacts of technology designed and offered by the open-design movement.
 
 * **Open lab/notebooks**: laboratory research records, diaries, journals, workbooks etc., offered online free of cost with terms that allow reuse and redistribution of the recorded material.
 
-* **Open Materials**: sharing of research materials, for example, biological and geological samples, is another Open Science practice.
+* **Open materials**: sharing of research materials, for example, biological and geological samples, is another Open Science practice.
+
+* **Open methods/protocols**: is to document and communicate your research methods unambiguously, so that other researchers can easily replicate your exact procedures.
 
 * **Open peer review**: peer validation process conducted openly on the Internet.
 
@@ -90,7 +92,7 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 * **Open repositories**: open archives that host scientific literature and make their content freely accessible to everyone in the world.
 
-* **Open Science**: the movement to make scientific research (including publications, data, physical samples, and software) transparent and accessible to all.
+* **Open science**: the movement to make scientific research (including publications, data, physical samples, and software) transparent and accessible to all.
 
 * **Open source**: software where the source code is available free of cost with terms that allow dissemination and adaptation.
 
