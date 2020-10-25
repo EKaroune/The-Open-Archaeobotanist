@@ -21,13 +21,19 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## C
 
+* **Creative commons**: A suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
+
 ## D
 
 * **Data paper**: is a peer reviewed document describing a dataset, published in a peer reviewed journal. It makes datasets more findable and accessible.
 
+* **Digital Object Identifier (DOI)**: A unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
+
 ## E
 
 ## F
+
+* **FAIR Data**: FAIR Data are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
 
 ## G
 
@@ -52,7 +58,11 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## L
 
+* **License**: is a document that provides legally binding guidelines for the use and distribution of software and other works published on the internet.
+
 ## M
+
+* **Metadata**: Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location). 
 
 * **Milestone**: an event or state marking a specific stage in development on the project.
 
