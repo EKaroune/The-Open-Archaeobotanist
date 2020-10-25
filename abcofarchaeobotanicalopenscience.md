@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: ABC of Archaeobotanical Open Science
+subtitle: Who I am and what I do
+gh-repo: ekaroune/the-open-archaeobotanist
+---
 
 # ABC of Archaeobotanical Open Science
 
