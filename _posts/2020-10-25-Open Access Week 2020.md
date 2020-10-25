@@ -54,6 +54,10 @@ All three talks encompassed why it is so important to open up research. Being ab
 
 This is something that I have been thinking a lot about this year and I’m really trying to promote the idea that all research should be open access. Not just publications but the whole thing! I have benefitted a lot from the move to online research activities and my hope is that this will now be the new norm going forward. It increases inclusion, and also usually diversity, if it is done well and this can only be a good thing.
 
+![Leslie Chan figure](./asset/img/Leslie Chan figure.png)
+
+Image from Leslie Chan's talk showing the current unhealthy ecosystem of knowledge.
+
 [Leslie Chan](https://www.utsc.utoronto.ca/~chan/index.html) spoke of a need to address the deeply embedded systemic and racial inequalities in science. He talked about this being the year of reckoning due to the Covid-19 pandemic and the idea of a social vaccine ([Baum & Friel 2020](https://insightplus.mja.com.au/2020/36/covid-19-the-need-for-a-social-vaccine/)) to bring about a life of security, fair opportunities, a habitable planet that supports biodiversity and just governance. 
 
 With everyone having such a strange year due to the pandemic, it does feel like this is a moment that something could change and my hope is that open access and more generally open science will become mainstream. If there was ever a moment to do this, it is now!
