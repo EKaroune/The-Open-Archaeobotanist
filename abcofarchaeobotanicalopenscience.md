@@ -13,6 +13,8 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 * **Archaeobotany**: the study of plant remains from archaeological sites.
 
+* **Article processing charge (APC)**: also known as a publication fee, is a fee which is sometimes charged to authors to make a work available open access in either an open access journal or hybrid journal. This fee may be paid by the author, the author's institution, or their research funder.
+
 ## B
 
 ## C
@@ -26,6 +28,8 @@ gh-repo: ekaroune/the-open-archaeobotanist
 ## F
 
 ## G
+
+* **Gold route**: The Gold route to open access is delivered via publishing an article in a journal. The journal may be an open access journal (pure open access), or a subscription based journal (hybrid open access) that offers an open access option. This is currently paid for by an APC.
 
 ## H
 
