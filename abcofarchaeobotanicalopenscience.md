@@ -11,7 +11,7 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## A
 
-* **Altmetrics**: A project that produces article level metrics of scholarly articles from information collected from the Internet, such as social media sites, newspapers, and other sources.
+* **Altmetrics**: a project that produces article level metrics of scholarly articles from information collected from the Internet, such as social media sites, newspapers, and other sources.
 
 * **Archaeobotany**: the study of plant remains from archaeological sites.
 
@@ -21,13 +21,13 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## C
 
-* **Creative commons**: A suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
+* **Creative commons**: a suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
 
 ## D
 
 * **Data paper**: is a peer reviewed document describing a dataset, published in a peer reviewed journal. It makes datasets more findable and accessible.
 
-* **Digital Object Identifier (DOI)**: A unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
+* **Digital Object Identifier (DOI)**: a unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
 
 ## E
 
@@ -41,9 +41,9 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 * **Github**: is a coporation that provides hosting for software development and version control using Git. It is free to use and is commonly used to host open-source projects.
 
-* **Gold route**: The Gold route to open access is delivered via publishing an article in a journal. The journal may be an open access journal (pure open access), or a subscription based journal (hybrid open access) that offers an open access option. This is currently paid for by an APC.
+* **Gold route**: the Gold route to open access is delivered via publishing an article in a journal. The journal may be an open access journal (pure open access), or a subscription based journal (hybrid open access) that offers an open access option. This is currently paid for by an APC.
 
-* **Green route**: The Green route to open access is delivered via self-archiving (depositing) an output into a repository. There are two types of repositories, institutional and subject repositories.
+* **Green route**: the Green route to open access is delivered via self-archiving (depositing) an output into a repository. There are two types of repositories, institutional and subject repositories.
 
 ## H
 * **Hybrid journal**: is a subscription journal in which some of the articles are open access. This status typically requires the payment of a publication fee (also called an article processing charge or APC) to the publisher in order to publish an article open access, in addition to the continued payment of subscriptions to access all other content.
@@ -62,7 +62,7 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## M
 
-* **Metadata**: Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location). 
+* **Metadata**: metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location). 
 
 * **Milestone**: an event or state marking a specific stage in development on the project.
 
@@ -80,9 +80,11 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 * **Open lab/notebooks**: laboratory research records, diaries, journals, workbooks etc., offered online free of cost with terms that allow reuse and redistribution of the recorded material.
 
-* **Open peer review**: Peer validation process conducted openly on the Internet.
+* **Open Materials**: sharing of research materials, for example, biological and geological samples, is another Open Science practice.
 
-* **Open reproducible research**: The act of practicing Open Science and the provision of offering to users free access to experimental elements for research reproduction.
+* **Open peer review**: peer validation process conducted openly on the Internet.
+
+* **Open reproducible research**: the act of practicing Open Science and the provision of offering to users free access to experimental elements for research reproduction.
 
 * **Open repositories**: open archives that host scientific literature and make their content freely accessible to everyone in the world.
 
@@ -101,6 +103,8 @@ gh-repo: ekaroune/the-open-archaeobotanist
 * **Post-print**:  is a digital draft of a research journal article after it has been peer reviewed and accepted for publication, but before it has been typeset and formatted by the journal.
 
 * **Pre-print**: a version of a scientific paper that precedes formal peer review and publication in a scientific journal.
+
+* **Preregistration**: researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
 
 ## Q
 
