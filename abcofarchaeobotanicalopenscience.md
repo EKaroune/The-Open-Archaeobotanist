@@ -114,6 +114,8 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 * **README file**: a document that introduces an open project to the public and any potential contributors.
 
+* **Registered report**: a published report describing the hypotheses and planned method of a study, before the data is collected. Also known as a ‘pre-registration’ or ‘pre-reg’.
+
 * **Repository or repo**: a collection of documents related to your project, in which you create and save new code or content.
 
 * **Roadmap**: a document outlining the schedule of work to be done on a project.
