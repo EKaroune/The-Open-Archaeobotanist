@@ -24,7 +24,7 @@ The APC fees that are required for gold open access are disadvantaging some rese
 
 [Arianna Becerril-Garcia](http://ariannabecerril.info/) presented the publishing situation in Latin America, which is a non-for-profit non-APC academy owned open access publishing system. That's a bit of a mouth full but basically means it is free to all! She explained how well established it is with many benefits such as open source software and research metrics. It was a surprise to me that this type of system existed. Coming from Britain, where we now pay as authors to publish openly and also pay to read non-open papers, I thought that commercial publishers were dominant worldwide. 
 
-![Latin American publishing](asset/img/Latin American publishing.png)
+![Latin American publishing](./asset/img/Latin American publishing.png)
 
 The image shows Arianna Becerril-Garcia talking about science as a public good in Latin America.
 
