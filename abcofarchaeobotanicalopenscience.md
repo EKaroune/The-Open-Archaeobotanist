@@ -1,13 +1,13 @@
 ---
 layout: page
 title: ABC of Archaeobotanical Open Science
-subtitle: Who I am and what I do
+subtitle: If you are not sure what some of the terms mean in the blogs on this website then have a look here!
 gh-repo: ekaroune/the-open-archaeobotanist
 ---
 
 # ABC of Archaeobotanical Open Science
 
-[A](#A)  [B](#B)  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+[A](#A)  [B](#B)  [C](#C)  [D](#D)  [E](#E)  [F](#F)  [G](#G)  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
 
 ## A
 
