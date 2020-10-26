@@ -26,7 +26,7 @@ The APC fees that are required for gold open access are disadvantaging some rese
 
 ![Latin American publishing](../asset/img/Latin American publishing.png)
 
-The image from Arianna Becerril-Garcia talk shows her talking about science as a public good in Latin America.
+The image is from Arianna Becerril-Garcia presentation and shows her talking about science as a public good in Latin America.
 
 It made me think that those of us relying on publishing in high impact journals from the big five publishers are doing something very wrong. As researchers we seem to be doing all the work and still having to pay for it - writing articles, peer reviews, paying for publishing and then paying to read non-open articles. We need to encourage researcher-led publishing initiatives so that we can move away from large publishers that seem to be getting all of the profit. It is us researchers that have the power to do this.
 
