@@ -26,7 +26,7 @@ The APC fees that are required for gold open access are disadvantaging some rese
 
 ![Latin American publishing](../asset/img/Latin American publishing.png)
 
-This image is from Arianna Becerril-Garcia's presentation and shows her talking about science as a public good in Latin America (permisson given by speaker).
+*This image is from Arianna Becerril-Garcia's presentation and shows her talking about science as a public good in Latin America (permisson given by speaker).*
 
 It made me think that those of us relying on publishing in high impact journals from the big five publishers are doing something very wrong. As researchers we seem to be doing all the work and still having to pay for it - writing articles, peer reviews, paying for publishing and then paying to read non-open articles. We need to encourage researcher-led publishing initiatives so that we can move away from large publishers that seem to be getting all of the profit. It is us researchers that have the power to do this.
 
@@ -42,7 +42,7 @@ Being a UCL Alumni myself, I was fascinated to hear about the project [Bricks an
 
 ![UCL project](./asset/img/UCL project.png)
 
-Subhadra Das talking about addressing the uncomfortable history of UCL academics by acknowledging it exists.
+*The image shows Subhadra Das talking about addressing the uncomfortable history of UCL academics by acknowledging it exists.*
 
 
 Personal connections to research often make the best projects and this was definitely demonstrated by Majd Al-Shihabi, who told us about [Palestine open maps](https://palopenmaps.org/). He explained how he is digitizing a large collection of maps from the 1940s to preserve the history of Palestine since many villages have been erased through Israeli settlement. He showed us the village of his grandparents that has now completely disappeared and talked about how his grandmother is helping him to translate the names of villages back into arabic. The project will also capture other geographic and historical information such as village statistics, historical photos and oral histories to become an invaluable resource to show the transformation in the human geography of historic Palestine over the past 70+ years.
@@ -56,7 +56,7 @@ This is something that I have been thinking a lot about this year and I’m real
 
 ![Leslie Chan figure](../asset/img/Leslie Chan figure.png)
 
-Image from Leslie Chan's talk showing the deep rooted unhealthy ecosystem of knowledge (permisson given by speaker).
+*Image from Leslie Chan's talk showing the deep rooted unhealthy ecosystem of knowledge (permisson given by speaker).*
 
 [Leslie Chan](https://www.utsc.utoronto.ca/~chan/index.html) spoke of a need to address the deeply embedded systemic and racial inequalities in science. He talked about this being the year of reckoning due to the Covid-19 pandemic and the idea of a social vaccine ([Baum & Friel 2020](https://insightplus.mja.com.au/2020/36/covid-19-the-need-for-a-social-vaccine/)) to bring about a life of security, fair opportunities, a habitable planet that supports biodiversity and just governance. 
 
