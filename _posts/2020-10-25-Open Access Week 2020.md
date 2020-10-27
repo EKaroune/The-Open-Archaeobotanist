@@ -40,7 +40,7 @@ After a year when Black lives matter has come to the forefront of all researcher
 
 Being a UCL Alumni myself, I was fascinated to hear about the project [Bricks and mortals](https://www.ucl.ac.uk/culture/projects/bricks-mortals) - a history of eugenics told through buildings, by Subhadra Das. She explained that many of the buildings are named after academics, such as Francis Galton, who in 1883 coined the term ‘eugenics’ - the study of human characteristics passed on through the generations with a view to improving the human species. She said that we need to acknowledge that this was not right - “Racism = Racism”. Many of the buildings names are now being changed but her project aims to highlight this history to bring it out into the open.
 
-![UCL project](./asset/img/UCL project.png)
+![UCL project](../asset/img/UCL project.png)
 
 *The image shows Subhadra Das talking about addressing the uncomfortable history of UCL academics by acknowledging it exists.*
 
