@@ -42,7 +42,7 @@ Being a UCL Alumni myself, I was fascinated to hear about the project [Bricks an
 
 ![UCL project](../asset/img/UCL project.png)
 
-*The image shows Subhadra Das talking about addressing the uncomfortable history of UCL academics by acknowledging it exists.*
+*The image shows Subhadra Das talking about addressing the uncomfortable history of UCL academics by acknowledging it exists (permission given by the speaker).*
 
 
 Personal connections to research often make the best projects and this was definitely demonstrated by Majd Al-Shihabi, who told us about [Palestine open maps](https://palopenmaps.org/). He explained how he is digitizing a large collection of maps from the 1940s to preserve the history of Palestine since many villages have been erased through Israeli settlement. He showed us the village of his grandparents that has now completely disappeared and talked about how his grandmother is helping him to translate the names of villages back into arabic. The project will also capture other geographic and historical information such as village statistics, historical photos and oral histories to become an invaluable resource to show the transformation in the human geography of historic Palestine over the past 70+ years.
