@@ -23,6 +23,10 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## C
 
+* **Citizen science**: The involvement of members of the public in scientific research.
+
+* **Contributing guidelines**: Guidelines outlining how a person should go about contributing to an open source project.
+
 * **Creative commons**: a suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
 
 ## D
