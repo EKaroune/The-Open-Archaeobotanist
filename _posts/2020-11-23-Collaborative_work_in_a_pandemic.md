@@ -21,7 +21,7 @@ I have greatly benefited from the change to online research activities - I am th
 
 *The Turing Way* community is designed so that anyone can contribute to the book. This was evident from the variety of planned work that was discussed on the first day of the bookdash. This ranged from reviewing previous work, writing new content on ethics, leadership and collaboration, translating existing content into other languages and improving accessibility of the book for contributors and users. 
 
->acknowledgement image
+![acknowledgement](../asset/img/acknowledgements.jpg)
 
 There was also an emphasis on enabling new contributors. This started before the week of the bookdash, when we attended a pre-bookdash event call. It was stressed by the Community Manager, [Malvika Sharan](https://the-turing-way.netlify.app/afterword/contributors-record.html#malvika-sharan), and the Project Lead, [Kirstie Whitaker](https://the-turing-way.netlify.app/afterword/contributors-record.html#kirstie-whitaker), that we must try to make use of the funding available to use for childcare or accessibility equipment that might help us take part in the event. We had the opportunity to talk about what we had proposed to do during the week and also to get technical help for the tools we would be using. For most people, using Github was a new experience. It is a widely used platform by computer scientists but much less used by the wider research community. It has a number of great features for collaborative projects, including the ability to version control and communicate on collaborative documents.  
 
@@ -35,7 +35,7 @@ Each session was divided up into pomodoros. These are short working sessions of 
 
 One of the highlights of my week was working with an illustrator, Jem Milton, from Scriberia. We were all able to spend time developing an idea for an illustration to be used in The Turing Way or more widely in the community. As my work for the week was based on accessibility, and I generally feel that science is in a period of change to more open ways of working, I suggested an image based on the classic human evolution diagram showing how science is evolving. This also links well with me being an archaeologist so I am hoping it will capture the imagination of colleagues when I give talks about open science. You can see the image below.
 
->Evolution image
+![evolving science](../asset/img/evolving_science_pic.jpg)
 
  
 Another feature of the week was a real effort to bring all the new contributors into the community and this was done through coffee chats, a family lunch and a final report out to celebrate all the hard work by each participant. This meant that we could all get to know each other informally and it was very successful at building a sense of community within a diverse group of researchers.
