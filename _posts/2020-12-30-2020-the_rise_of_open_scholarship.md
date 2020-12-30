@@ -28,6 +28,7 @@ Unfortunately, botanical sciences, in the UK at least, are declining at Universi
 
 This was demonstrated earlier this year through the [Irish Grasslands Project](https://bsbi.org/irish-grasslands-project) that aimed to increase awareness of Ireland’s semi-natural grasslands and help to improve the identification skills needed to record them. This was done through a fantastic series of free online training sessions, downloadable resources and social media posts. You would think it was very hard to learn plant identification online, as it is a very practical skill. However, it was extremely well prepared by the trainers (Fionnuala O’Neill and Lynda Weeks), who provided visual and spoken explanations of different plant species. All of the little tips and tricks that they passed on were really helpful and you could also ask questions directly to the BSBI organisers for extra help and clarification. This made the training, in my view, extremely successful.
 
+
 ![bsbi](../asset/img/BSBI.png)
 **Image taken from BSBI Annual Exhibit Meeting website showing the variety of different activities on offer: (https://aem.bsbi.org/)** 
 
@@ -39,11 +40,14 @@ Towards the end of this year, I took part in the Open Life Science mentoring and
 
 The talks in the program address many different areas of open science and give special focus to the skills needed for developing collaborative projects. I found the mentor sessions extremely helpful as you often have lots of ideas when initiating a new project but having someone to help you focus this energy on the best bits is crucial to a project's success. This second cohort was highly successful with 52 participants and 32 projects from around the World graduating in December. Many of these projects will continue to drive change in academia to more open ways of working and this program is an excellent springboard for early career researchers into open scholarship. I would highly recommend this program for anyone that has an interest in open science and they have put out a call for projects to apply for their [third cohort](https://openlifesci.org/ols-3). You can read about my OLS-2 project in this [blog](https://openlifesci.org/posts/2020/12/18/ols-2-participant-emma-karoune-speedblog/) and I also want to give a shout out to my great mentors! - Yvan le Bras and Sarah Gibson!.
 
+
 ![ols2grad](../asset/img/OLS2grad.png)
 **Image of Emma Karoune giving my OLS2 graduation talk on the 16th December 2020.**
 
 
 Although these two organisations are very different, they both rose to the challenges brought about by this very strange year and show the power that open education and open research activities can bring to academic communities.
+
+## Equity, diversity and inclusion
 
 The Black Lives Matters movement has had a significant impact on academic conferences this year - I have heard the call for change in many different places, and this time, there seems to be action happening. Equity, diversity and inclusion are a key part of Open Scholarship and it does feel like the academic community is taking note of the need for change in academic organisations. In terms of Environmental Archaeology, the Sustainability webinar series by the Association of Environmental Archaeology (AEA) had EDI as a key theme running through many of the talks given. We heard from Gill Campbell in the first keynote speech about the need for our discipline to address inequality and a lack of diversity. Kristina Douglass spoke directly about equity, diversity and justice in Environmental Archaeology through her work in Madagascar and demonstrated how inclusively archaeological research could be conducted by considering and planning for the needs and wants of local stakeholders. There were also other talks that directly called out a need for changes in our discipline and there seemed to be a consensus that it was time to do this. If you want to view these talks, please see the [AEA youtube channel](https://www.youtube.com/channel/UC8p4F5_3okIOammT9O2Ywdw). 
 
@@ -52,7 +56,8 @@ And actions have started to happen - the recent AEA annual general meeting addre
 My hopes for the future are that we, as a scientific community, continue to embrace Open Scholarship and start to really move it into the mainstream of all of our research. This is something I am going to work hard on myself this coming year in all of my projects and research activities to disseminate this idea and facilitate other colleagues training in Open Science skills. One great beacon of light that makes me think that the change is here to stay is the announcement of the [UNESCO recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation). The Recommendation is expected to define shared values and principles for Open Science, and identify concrete measures on Open Access and Open Data, with proposals to bring citizens closer to science and commitments to facilitate the production and dissemination of scientific knowledge around the world. This is a big deal for the Open Science community and hopefully will increase the likelihood of open science becoming just science.    
 
 **Acknowledgements**
-Thanks to the BSBI for all their fantastic work this year to provide botanists with free resources and training. I also want to thank them for supporting my research by proving a small research grant for my 2020 fieldwork project.
+
+Thanks to the BSBI for all their fantastic work this year to provide botanists with free resources and training. I also want to thank them for supporting my research by providing a small research grant for my 2020 fieldwork project.
 
 Thanks also to Open Life Science for their help and support of my OLS-2 project.
 
