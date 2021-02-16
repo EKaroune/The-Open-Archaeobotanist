@@ -4,6 +4,8 @@
 
 This is the website address: https://ekaroune.github.io/The-Open-Archaeobotanist/
 
+If you want to write a guest blog then please see this issue: https://github.com/EKaroune/The-Open-Archaeobotanist/issues/2
+
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
