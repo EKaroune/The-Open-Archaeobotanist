@@ -37,6 +37,8 @@ gh-repo: ekaroune/the-open-archaeobotanist
 
 ## E
 
+* **EDI**: Equity, diversity and inclusion.
+
 ## F
 
 * **FAIR Data**: FAIR Data are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
