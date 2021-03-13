@@ -1,3 +1,14 @@
+---
+layout: post
+title:  Introduction to The Open Archaeobotanist Guest Blogs
+subtitle: Why I am an Open Archaeobotanist.
+gh-repo: ekaroune/the-open-archaeobotanist
+cover-img: asset/img/guest_this_way.jpg
+thumbnail-img: asset/img/guest_this_way.jpg
+share-img: asset/img/guest_this_way.jpg
+tags: [open science, open research, archaeology, archaeobotany]
+---
+
 # Introduction to The Open Archaeobotanist Guest Blogs
 
 Over this year, there are going to be a series of guest blogs by prominent Open Archaeologists to promote open science as an approach within Archaeology.
@@ -8,7 +19,7 @@ Open Research has an overwhelming number of different aspects and we should not 
 
 I think to encourage more archaeologists to follow this approach, we need to explain more about why and how we became open archaeologists to those that have not yet shifted their ideas and practices. It will also help to suggest what the small steps could be so that there are a series of concrete actions that could be taken.
 
-The guest blog is based on a set of interview questions that can be found here. If you want to be a guest blogger, then please get in touch with me - ekaroune@googlemail.com or you can comment on this issue on the github repository for this blog here.
+The guest blog is based on a set of interview questions that can be found [here](https://docs.google.com/document/d/1OTeGhtT_wghVIyHbqTDSa7EBq2rCFrvKAnRGgD8VYjo/edit?usp=sharing). If you want to be a guest blogger, then please get in touch with me - ekaroune@googlemail.com or you can comment on this issue on the github repository for this blog [here](https://github.com/EKaroune/The-Open-Archaeobotanist/issues/2).
 
 So, even though I have already written a post about why I want to be an open archaeologists, I thought it would be a good place to start if I answered the interview questions myself.
 
@@ -23,14 +34,14 @@ The other thing that drives me forward is how hard it is for excluded groups suc
 
 
 ## How did you become an Open Archaeologist?
-I definitely started off with a frustration at a lack of reproducibility in my own discipline and so started to teach myself about open science through online resources such as watching talks about open science and through the freely available courses on the FOSTER website.
+I definitely started off with a frustration at a lack of reproducibility in my own discipline and so started to teach myself about open science through online resources such as watching talks about open science and through the freely available courses on the [FOSTER](https://www.fosteropenscience.eu/) website.
 
-I then really wanted to find out what was going on in my own discipline and so I dived into conducting a literature review to look at issues about open access and data sharing. That project led to me being involved in the Open Life Science Open Leadership Program and also becoming involved in the Turing Way. Now my regular day job heavily involves open science skills and promoting open ways of working and I have started to build a community of open practice in my discipline.
+I then really wanted to find out what was going on in my own discipline and so I dived into conducting a literature review to look at issues about open access and data sharing. That project led to me being involved in the [Open Life Science](https://openlifesci.org/) Open Leadership Program and also becoming involved in [The Turing Way](https://the-turing-way.netlify.app/welcome). Now my regular day job heavily involves open science skills and promoting open ways of working and I have started to build a community of open practice in my discipline.
 
 ## What is your biggest frustration at the moment in terms of the adoption of open science practices in archaeology?
 Attitudes around data sharing - I am very happy for my data to be open from it’s point of collection but I know many people don’t hold this same view point. I have experience working in another field where data sharing is restricted because it is so sensitive but I do not think this applies routinely to archaeology. I think the issue is mostly about ownership of data in archaeology. 
 
-I know there are worries about getting scooped but I think that is a total myth. To prevent this from happening you can add a license and digital object identifier (DOI) to any data or other outputs you put in open repositories. This means other researchers can cite your work properly.
+I know there are worries about getting scooped and this is hard to get past but I think that is a total myth. I suggest to prevent this from happening you can add a license and digital object identifier (DOI) to any data or other outputs you put in open repositories. This means other researchers can cite your work properly.
 
 Also being more open about what research you are doing from the start of a project will also prevent scooping because everyone will know what research you are doing. If your work is known, with lots of examples of outputs in the public domain, it would be a bit strange if someone tried to do the same thing as you. 
 
@@ -39,8 +50,13 @@ For me, equity, diversity and inclusion fall very much under the umbrella of Ope
 
 On Monday this week it was International Women's Day, so I want to highlight the work of Rachel Pope and the group she is the Director of - British Women Archaeologists.  They are a lobby group for improving conditions for women workers in the Heritage Sector. Find out more on their facebook page [here](https://www.facebook.com/groups/7673429447/). 
 
-Rachel gave the most amazing speech this week called ‘Women in the present, women in the past’. It can be seen on youtube [here](https://www.youtube.com/watch?v=hJe6388wmSY). It highlighted the serious lack of women professors in British Archaeology, and even less women of color in those positions, and how this has had serious implications on the interpretations of women in the past. 
+Rachel gave the most amazing speech this week called ‘Women in the present, women in the past’. It can be seen on youtube [here](https://www.youtube.com/watch?v=hJe6388wmSY). It highlighted the serious lack of women professors in British Archaeology, and even less women of colour in those positions, and how this has had serious implications on the interpretations of women in the past. 
 
 ## What one thing could archaeological researchers do to easily make their work more open?
 
-Start to put your work in an open repository - there are many to choose from such as [Zenodo](https://zenodo.org/) or [Open Science Framework](https://osf.io/). This could be your academic articles, data and any other outputs you might have. Don’t forget your license - a [creative commons license](https://creativecommons.org/licenses/), the most open being CC-BY 4.0, is a good one for documents. 
+Start to put your work in an open repository - there are many to choose from such as [Zenodo](https://zenodo.org/) or [Open Science Framework](https://osf.io/). This could be your academic articles, data or any other outputs you might have. Don’t forget your license - a [creative commons license](https://creativecommons.org/licenses/), the most open being CC-BY 4.0, is a good one for documents. 
+
+
+Thanks for reading and watch out for the first guest blog coming very soon!
+
+
