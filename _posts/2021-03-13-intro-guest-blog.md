@@ -3,9 +3,9 @@ layout: post
 title:  Introduction to The Open Archaeobotanist Guest Blogs
 subtitle: Why I am an Open Archaeobotanist.
 gh-repo: ekaroune/the-open-archaeobotanist
-cover-img: asset/img/guest_this_way.jpg
-thumbnail-img: asset/img/guest_this_way.jpg
-share-img: asset/img/guest_this_way.jpg
+cover-img: asset/img/guests_this_way.jpg
+thumbnail-img: asset/img/guests_this_way.jpg
+share-img: asset/img/guests_this_way.jpg
 tags: [open science, open research, archaeology, archaeobotany]
 ---
 
