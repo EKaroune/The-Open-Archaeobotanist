@@ -59,7 +59,7 @@ For researchers, publish your full data in an open repository. For publishers, s
 
 There needs to be systemic change to allow researchers, by publishers and funders, to make the changes needed to drive forward open science approaches in archaeology. 
 
-##  🌟: I want to thank Jennifer for talking to me about her open archaeology journey. 🌟
+##  🌟 I want to thank Jennifer for talking to me about her open archaeology journey 🌟
 
 **I wanted to just address some of the issues raised in this interview so that I can suggest a few ways to overcome them:**
 
