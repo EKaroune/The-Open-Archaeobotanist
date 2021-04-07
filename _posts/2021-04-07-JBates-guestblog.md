@@ -3,9 +3,9 @@ layout: post
 title:  The Open Archaeobotanist Guest Blog
 subtitle: Dr Jennifer Bates
 gh-repo: ekaroune/the-open-archaeobotanist
-cover-img: asset/img/guests_this_way.jpg
-thumbnail-img: asset/img/guests_this_way.jpg
-share-img: asset/img/guests_this_way.jpg
+cover-img: asset/img/jbates.jpg
+thumbnail-img: asset/img/jbates.jpg
+share-img: asset/img/jbates.jpg
 tags: [open science, open research, archaeology, archaeobotany, Indus civilisation]
 ---
 
