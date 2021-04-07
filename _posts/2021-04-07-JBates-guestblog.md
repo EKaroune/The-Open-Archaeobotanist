@@ -65,17 +65,23 @@ I wanted to just address some of the issues raised in this interview so that I c
 
 
 
-*   **Cost of publishing open access articles** - This is definitely an big issue and a source of inequality in publishing at the moment between those that can afford it and those that cannot. There is an increasing amount of funds that can be applied for to help with article processing charges, such as through internet archaeology, and there is also the option of asking the journal editors for a fee waiver. 
+### The cost of publishing open access articles 
+
+This is definitely an big issue and a source of inequality in publishing at the moment between those that can afford it and those that cannot. There is an increasing amount of funds that can be applied for to help with article processing charges, such as through internet archaeology, and there is also the option of asking the journal editors for a fee waiver. 
 
 However, my suggestion to avoid any need for financial transactions is to go down the green open access publishing route - so this means putting a pre-print and/or post-print of your article on an open repository for long term storage such as using Zenodo or Open Science Framework. It will get a digital object identifier (DOI) and you can also add a license. 
 
 
 Another alternative to traditional publishing is to use [Peer Community in Archaeology](https://archaeo.peercommunityin.org/) to publish articles online for free with peer review and recommendations from editors. There is no need to then send this paper on to a journal as the full research lifecycle of the project has been brought to a close by the peer reviewing. 
 
-*   **The cost and fragility of dataset storage** - The cost of paying for data storage and whether this can be maintained long term for projects is a considerable issue that needs more discussion in archaeology, However, this can be overcome by using open repositories that are free and dedicated to long term storage such as Zenodo or Open Science Framework for self-archiving of your data and project documentation. It is a good idea to make this explicit at the beginning of the project so you can plan for this in your data management plan and set out that long-term storage is an important aspect of the project. 
+### The cost and fragility of dataset storage
+
+The cost of paying for data storage and whether this can be maintained long term for projects is a considerable issue that needs more discussion in archaeology, However, this can be overcome by using open repositories that are free and dedicated to long term storage such as Zenodo or Open Science Framework for self-archiving of your data and project documentation. It is a good idea to make this explicit at the beginning of the project so you can plan for this in your data management plan and set out that long-term storage is an important aspect of the project. 
 
 There is definitely a need to invest in more infrastructure around research software and tools as set out in this recent article by [Knowles et al. (2021)]([https://www.nature.com/articles/s43588-021-00048-5](https://www.nature.com/articles/s43588-021-00048-5)).
 
-*   **Scooping of data and ideas** - It is an ugly truth of our current competitive research culture that unethical practices such as data scooping, or people in positions of power taking the ideas developed by those in a less advantaged position, do still happen. And I was very sad to hear that Jennifer had experienced such a situation. However, I feel that the open science movement will get us away from these situations as it is based on a more equitable and inclusive approach to research. Being more open with your research at all stages of the research lifecycle means that your work is more known by others and consequently it is much harder for these negative practices to occur. Depositing your research outputs in an open repository with a license, tells other researchers how you want your outputs to be used and with each piece of your work having a DOI, it makes it much easier for others to cite your work properly.  
+### Scooping of data and ideas
+
+It is an ugly truth of our current competitive research culture that unethical practices such as data scooping, or people in positions of power taking the ideas developed by those in a less advantaged position, do still happen. And I was very sad to hear that Jennifer had experienced such a situation. However, I feel that the open science movement will get us away from these situations as it is based on a more equitable and inclusive approach to research. Being more open with your research at all stages of the research lifecycle means that your work is more known by others and consequently it is much harder for these negative practices to occur. Depositing your research outputs in an open repository with a license, tells other researchers how you want your outputs to be used and with each piece of your work having a DOI, it makes it much easier for others to cite your work properly.  
 
 **If you would like to also share your open archaeology journey by answering these questions, then please do get in touch with me - ekaroune@googlemail.com**
