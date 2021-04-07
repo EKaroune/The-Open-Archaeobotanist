@@ -67,7 +67,7 @@ There needs to be systemic change to allow researchers, by publishers and funder
 
 ### The cost of publishing open access articles 
 
-This is definitely an big issue and a source of inequality in publishing at the moment between those that can afford it and those that cannot. There is an increasing amount of funds that can be applied for to help with article processing charges, such as through internet archaeology, and there is also the option of asking the journal editors for a fee waiver. 
+This is definitely a big issue and a source of inequality in publishing at the moment between those that can afford it and those that cannot. There is an increasing amount of funds that can be applied for to help with article processing charges, such as through internet archaeology, and there is also the option of asking the journal editors for a fee waiver. 
 
 However, my suggestion to avoid any need for financial transactions is to go down the green open access publishing route - so this means putting a pre-print and/or post-print of your article on an open repository for long term storage such as using Zenodo or Open Science Framework. It will get a digital object identifier (DOI) and you can also add a license. 
 
