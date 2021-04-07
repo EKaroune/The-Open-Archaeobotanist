@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  The Open Archaeobotanist Guest Blog - Dr Jennifer Bates
-subtitle: Why I am an Open Archaeobotanist.
+title:  The Open Archaeobotanist Guest Blog
+subtitle: Dr Jennifer Bates
 gh-repo: ekaroune/the-open-archaeobotanist
 cover-img: asset/img/guests_this_way.jpg
 thumbnail-img: asset/img/guests_this_way.jpg
