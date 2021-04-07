@@ -1,3 +1,14 @@
+---
+layout: post
+title:  The Open Archaeobotanist Guest Blog - Dr Jennifer Bates
+subtitle: Why I am an Open Archaeobotanist.
+gh-repo: ekaroune/the-open-archaeobotanist
+cover-img: asset/img/guests_this_way.jpg
+thumbnail-img: asset/img/guests_this_way.jpg
+share-img: asset/img/guests_this_way.jpg
+tags: [open science, open research, archaeology, archaeobotany, Indus civilisation]
+---
+
 # The Open Archaeobotanist Guest Blog - Dr Jennifer Bates
 
 **Interview conducted on 22nd March 2021**
