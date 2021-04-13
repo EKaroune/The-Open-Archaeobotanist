@@ -43,7 +43,7 @@ Something I am interested in is the equity, diversity and inclusion aspect of op
 
 This article can be found here: Bates, J. & Petrie, C.A. 2016. Phytolith Analysis and the Indus Civilisation: a review. *Man and Environment*, XLI(2): 32-49.
 
-![spikelets](../asset/img/spikelets.png)
+![spikelet](../asset/img/spikelet.png)
 
 *Picture courtesy of Jennifer Bates - SEM picture of archaeological rice spikelet bases.*
 
