@@ -17,6 +17,7 @@ Dr Jennifer Bates is currently a Postdoctoral Fellow at the University of Pennsy
 
 ![JBates Bio Picture](../asset/img/JBates_BioPicture.jpeg)
 
+*Picture courtesy of Jennifer Bates - Picture of Jennifer Bates.*
 
 ## Why I am an Open Archaeobotanist. 
 
@@ -41,6 +42,10 @@ I would in fact say that I am still becoming an open archaeologist as I still ha
 Something I am interested in is the equity, diversity and inclusion aspect of open science. I have previously purposely published a review article of phytolith data from the Indus Civilization in a South Asian journal that was not open access but I knew would be more available to Indian and Pakistani colleagues. This paper drew together information from inaccessible sources to give better access to the data to the community of researchers that would want to access it.
 
 This article can be found here: Bates, J. & Petrie, C.A. 2016. Phytolith Analysis and the Indus Civilisation: a review. *Man and Environment*, XLI(2): 32-49.
+
+![spikelets](../asset/img/spikelets.tif)
+
+*Picture courtesy of Jennifer Bates - SEM picture of archaeological rice spikelet bases.*
 
 ## What is your biggest frustration at the moment in terms of the adoption of open science practices in archaeology?
 
