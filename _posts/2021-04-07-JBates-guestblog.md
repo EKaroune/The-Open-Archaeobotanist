@@ -17,7 +17,7 @@ Dr Jennifer Bates is currently a Postdoctoral Fellow at the University of Pennsy
 
 ![JBates Bio Picture](../asset/img/JBates_BioPicture.jpeg)
 
-*Picture courtesy of Jennifer Bates - Picture is of Jennifer Bates herself.*
+*Picture courtesy of Jennifer Bates - the picture is of Jennifer Bates herself working at a microscope.*
 
 ## Why I am an Open Archaeobotanist. 
 
