@@ -15,6 +15,9 @@ tags: [open science, open research, archaeology, archaeobotany, Indus civilisati
 
 Dr Jennifer Bates is currently a Postdoctoral Fellow at the University of Pennsylvania focused on archaeobotanical investigations of the Indus civilisation in South Asia. She has very kindly agreed to be the first person to answer my questions about why she became an Open Archaeologist. 
 
+![JBates Bio Picture](../asset/img/JBates_BioPicture.jpeg)
+
+
 ## Why I am an Open Archaeobotanist. 
 
 ## Why did you become an Open Archaeologist?
