@@ -21,7 +21,7 @@ I think access to information and knowledge is a human right that is in the curr
 ## How did you become an Open Archaeologist?
 I wasn’t very familiar with the concept of Open Science until I tried to write up the second publication from my PhD research ([Unlocking Teeth](https://zenodo.org/record/3929551#.YHcTOOj0mUk)). The first publication of this project was a method paper, which allowed me to describe everything in quite some detail. Even with this detailed description it was probably still challenging to reproduce the findings without contacting me, but it at least felt like a good attempt at describing the method that I co-developed. The second publication of my PhD project was based on this method, but followed two years later. Over these years the original protocol was tweaked to increase efficiency. Now, however, the word count limit of the journal didn’t allow a full description of a method and instead there was only space to refer to the original paper. This was something that really started to bother me: Why was one of the most crucial parts of the paper, how the data was generated, not important enough to be fully describe in the paper itself? 
 
-![](../asset/img/)
+![tooth image](../asset/img/CH6_image.jpg)
 
 Image by Esther Plomp
 
@@ -32,7 +32,7 @@ The adoption of open science practises in Archaeology is quite slow. A lot of ar
 
 A more general frustration lies within the recognition of Open Science practices. While I believe that in the end all the efforts that you put into these practises will pay off, it would help if these practises are recognised more by institutes and funders. This will allow researchers to invest the time into Open Science practises and teach them to the next generation of students. In the Netherlands there are now some developments that stimulate the wide range of skills that academics have through the position paper ‘[Room for everyone’s talent](https://vsnu.nl/recognitionandrewards/recognition-and-rewards/index.html)’, in which Open Science is prominently featured. To really see this shift we will need a global movement towards Open Science practises in which these practises are a fundamental component of evaluating scientific research. We also need to pay attention that these new practises will not replicate the old evaluation system by focusing on quantity only. 
 
-![](../asset/img/)
+![position paper](../asset/img/positionpaper.jpg)
 
 Image from [Room for everyone's talent](https://vsnu.nl/recognitionandrewards/recognition-and-rewards/index.html)
 
@@ -46,5 +46,5 @@ Another source of my own inspiration is [Dr. Canan Çakirlar](https://www.rug.nl
 ## What one thing could archaeological researchers do to easily make their work more open?
 I would recommend researchers to have a look at the ‘[Rainbow of Open Science Practises](https://zenodo.org/record/1147025#.YHcWRej0mUk)’ to see the options to make your research more openly available and pick the one you are most comfortable with. It is really up to you which step to take first and once you have taken your first step you can always decide to take another step! If you find all these options overwhelming, try to discuss them with your colleagues to see if they have any experiences. You can also always get in touch with your institute’s library support office: Libraries and their staff are heavily engaged in the Open Science world and they have all the expertise that you will need to make your outputs more openly available! 
 
-![ ](../asset/img/)
+![rainbow](../asset/img/rainbow.png)
 
