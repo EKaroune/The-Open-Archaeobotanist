@@ -3,9 +3,9 @@ layout: post
 title:  The Open Archaeobotanist Guest Blog
 subtitle: Dr Esther Plomp
 gh-repo: ekaroune/the-open-archaeobotanist
-cover-img: asset/img/.jpg
-thumbnail-img: asset/img/.jpg
-share-img: asset/img/.jpg
+cover-img: asset/img/epguest.png
+thumbnail-img: asset/img/epguest.png
+share-img: asset/img/epguest.png
 tags: [open science, open research, archaeology, archaeobotany, Indus civilisation]
 ---
 
