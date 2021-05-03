@@ -23,7 +23,7 @@ I wasn’t very familiar with the concept of Open Science until I tried to write
 
 The second publication of my PhD project was based on this method, but followed two years later. Over these years the original protocol was tweaked to increase efficiency. Now, however, the word count limit of the journal didn’t allow a full description of a method and instead there was only space to refer to the original paper. This was something that really started to bother me: Why was one of the most crucial parts of the paper, how the data was generated, not important enough to be fully describe in the paper itself? 
 
-![tooth image](../asset/img/CH6_image.jpg)
+![tooth image](../asset/img/eptooth.png)
 
 Image by Esther Plomp
 
