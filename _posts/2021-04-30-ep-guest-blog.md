@@ -6,7 +6,7 @@ gh-repo: ekaroune/the-open-archaeobotanist
 cover-img: asset/img/epguest.png
 thumbnail-img: asset/img/epguest.png
 share-img: asset/img/epguest.png
-tags: [open science, open research, archaeology, archaeobotany, Indus civilisation]
+tags: [open science, open research, archaeology, isotopes]
 ---
 
 # The Open Archaeobotanist Guest Blog - Dr Esther Plomp
