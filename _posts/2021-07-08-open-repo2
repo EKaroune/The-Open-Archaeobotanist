@@ -3,15 +3,15 @@ layout: post
 title:  Getting started with open repositories - Part 2
 subtitle: What you need to know
 gh-repo: ekaroune/the-open-archaeobotanist
-cover-img: asset/img/open-repos.jpg
-thumbnail-img: asset/img/open-repos.jpg
-share-img: asset/img/open-repos.jpg
+cover-img: asset/img/open-repo2.jpg
+thumbnail-img: asset/img/open-repo2.jpg
+share-img: asset/img/open-repo2.jpg
 tags: [open science, open research, archaeology, open data, open repositories]
 ---
 
 # Getting started with open repositories - Part 2 - What you need to know
 
-Remember!! - In part 1, I made it very clear that you can **deposit your open archaeological data for free** and here is more information about open repositories that will get you started doing that.
+**Remember!! - In part 1, I made it very clear that you can **deposit your open archaeological data for free** and here is more information about open repositories that will get you started doing that.**
 
 ## What is an open repository?
 
@@ -77,7 +77,8 @@ So for certain researchers, using a free open repository is a better option beca
 
 For archaeological projects, you can choose one of these general free open repositories that are open for use by researchers from any discipline for any research output.
 
-Add table here
+![Free open repository table](../asset/img/repo-table.jpg)
+
 
 In part 3, I will give some suggestions about how you can start to use these free open repositories.
 
