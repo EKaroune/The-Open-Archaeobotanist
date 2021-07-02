@@ -1,5 +1,7 @@
 # The Open Archaeobotanist
 
+[![DOI](https://zenodo.org/badge/306341081.svg)](https://zenodo.org/badge/latestdoi/306341081)
+
 ***This is a blog site about my open archaeobotanical work, open science things I get up to and other peoples open work!***
 
 This is the website address: https://ekaroune.github.io/The-Open-Archaeobotanist/
