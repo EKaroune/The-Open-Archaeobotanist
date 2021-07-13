@@ -32,8 +32,9 @@ Why don’t you have a look at your own research and try to assess how open it i
 * Ask for the data if you are doing a review.
 * If you are not sure about where to start, go and find something to read. You could start by looking at the [FOSTER website](https://www.fosteropenscience.eu/).
 
+You can cite this blog by using this citation:
 
-
+Emma Karoune, Esther Plomp, & Jennifer Bates. (2021, July 2). EKaroune/The-Open-Archaeobotanist: The Open Archaeobotanist blog October 2020 to July 2021 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.5062417
 
 
 
