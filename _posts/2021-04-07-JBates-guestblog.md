@@ -93,3 +93,9 @@ There is definitely a need to invest in more infrastructure around research soft
 It is an ugly truth of our current competitive research culture that unethical practices such as data scooping, or people in positions of power taking the ideas developed by those in a less advantaged position, do still happen. And I was very sad to hear that Jennifer had experienced such a situation. However, I feel that the open science movement will get us away from these situations as it is based on a more equitable and inclusive approach to research. Being more open with your research at all stages of the research lifecycle means that your work is more known by others and consequently it is much harder for these negative practices to occur. Depositing your research outputs in an open repository with a license, tells other researchers how you want your outputs to be used and with each piece of your work having a DOI, it makes it much easier for others to cite your work properly.  
 
 **If you would like to also share your open archaeology journey by answering these questions, then please do get in touch with me - ekaroune@googlemail.com**
+
+**You can cite this blog by using this citation:**
+
+Emma Karoune, Esther Plomp, & Jennifer Bates. (2021, July 2). EKaroune/The-Open-Archaeobotanist: The Open Archaeobotanist blog October 2020 to July 2021 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.5062417
+
+
