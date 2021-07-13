@@ -49,4 +49,8 @@ If you are interested in reproducible research, then please check out [The Turin
 
 **All images used in this post were created by Scriberia for The Turing Way community and are used under a CC-BY licence**.
 
+**You can cite this blog by using this citation:**
+
+Emma Karoune, Esther Plomp, & Jennifer Bates. (2021, July 2). EKaroune/The-Open-Archaeobotanist: The Open Archaeobotanist blog October 2020 to July 2021 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.5062417
+
 
