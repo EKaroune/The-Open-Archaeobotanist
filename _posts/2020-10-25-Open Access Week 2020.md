@@ -61,3 +61,9 @@ This is something that I have been thinking a lot about this year and I’m real
 [Leslie Chan](https://www.utsc.utoronto.ca/~chan/index.html) spoke of a need to address the deeply embedded systemic and racial inequalities in science. He talked about this being the year of reckoning due to the Covid-19 pandemic and the idea of a social vaccine ([Baum & Friel 2020](https://insightplus.mja.com.au/2020/36/covid-19-the-need-for-a-social-vaccine/)) to bring about a life of security, fair opportunities, a habitable planet that supports biodiversity and just governance. 
 
 With everyone having such a strange year due to the pandemic, it does feel like this is a moment that something could change and my hope is that open access and more generally open science will become mainstream. If there was ever a moment to do this, it is now!
+
+
+**You can cite this blog by using this citation:**
+
+Emma Karoune, Esther Plomp, & Jennifer Bates. (2021, July 2). EKaroune/The-Open-Archaeobotanist: The Open Archaeobotanist blog October 2020 to July 2021 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.5062417
+
