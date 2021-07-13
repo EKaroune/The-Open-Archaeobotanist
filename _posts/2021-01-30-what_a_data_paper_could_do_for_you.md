@@ -62,3 +62,9 @@ Being more open and transparent, and particularly taking a reproducible research
 This is especially important when it comes to developing new scientific methods for application in archaeological investigations. The methods need to be robust so that the investigations using them and subsequent interpretations made from the results must hold up to scrutiny. 
 
 **After reading all this way to the bottom of my post, I hope that you will consider writing a data paper for your next dataset as I will be very happy when I read it!**
+
+**You can cite this blog by using this citation:**
+
+Emma Karoune, Esther Plomp, & Jennifer Bates. (2021, July 2). EKaroune/The-Open-Archaeobotanist: The Open Archaeobotanist blog October 2020 to July 2021 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.5062417
+
+
