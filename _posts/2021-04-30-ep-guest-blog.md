@@ -50,3 +50,7 @@ I would recommend researchers to have a look at the ‘[Rainbow of Open Science 
 
 ![rainbow](../asset/img/rainbow.png)
 
+**You can cite this blog by using this citation:**
+
+Emma Karoune, Esther Plomp, & Jennifer Bates. (2021, July 2). EKaroune/The-Open-Archaeobotanist: The Open Archaeobotanist blog October 2020 to July 2021 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.5062417
+
