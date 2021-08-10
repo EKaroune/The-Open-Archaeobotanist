@@ -63,15 +63,15 @@ We aim to create a friendly, supportive space for working together and guiding p
 
 My papers with open science practices can be found here: 
 
-Wang, L. Y. and Marwick, B. (accepted in Aug 2021) A Bayesian networks approach to infer social changes in burials in northeastern Taiwan during the European colonization period. Journal of Archaeological Science, pre-print, data & code: https://osf.io/preprints/socarxiv/3vfea
+* Wang, L. Y. and Marwick, B. (accepted in Aug 2021) A Bayesian networks approach to infer social changes in burials in northeastern Taiwan during the European colonization period. Journal of Archaeological Science, pre-print, data & code: https://osf.io/preprints/socarxiv/3vfea
 
-Wang, L. Y. and Marwick, B. (2020) Ornaments as indicators of social changes resulting from indirect effects of colonialism in northeastern Taiwan. Archaeological Research in Asia 24. https://doi.org/10.1016/j.ara.2020.100226, pre-print, data & code: https://doi.org/10.31235/osf.io/z9p5k
+* Wang, L. Y. and Marwick, B. (2020) Ornaments as indicators of social changes resulting from indirect effects of colonialism in northeastern Taiwan. Archaeological Research in Asia 24. https://doi.org/10.1016/j.ara.2020.100226, pre-print, data & code: https://doi.org/10.31235/osf.io/z9p5k
 
-Wang, L. Y. and Marwick, B. (2020) Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. Journal of Archaeological Science: Reports 33. https://doi.org/10.1016/j.jasrep.2020.102554, pre-print, data & code: https://osf.io/preprints/socarxiv/q8hn9/
+* Wang, L. Y. and Marwick, B. (2020) Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. Journal of Archaeological Science: Reports 33. https://doi.org/10.1016/j.jasrep.2020.102554, pre-print, data & code: https://osf.io/preprints/socarxiv/q8hn9/
 
 The paper I coauthored about teaching replication assignments can be found here: 
 
-Marwick, B., Wang, L. Y., Robinson, R., & Loiselle, H. (2019) How to use replication assignments for teaching integrity in empirical archaeology. Advances in Archaeological Practice, 8(1), 78-86. https://doi.org/10.1017/aap.2019.38 pre-print, data & code: https://osf.io/preprints/socarxiv/tsxbv/
+* Marwick, B., Wang, L. Y., Robinson, R., & Loiselle, H. (2019) How to use replication assignments for teaching integrity in empirical archaeology. Advances in Archaeological Practice, 8(1), 78-86. https://doi.org/10.1017/aap.2019.38 pre-print, data & code: https://osf.io/preprints/socarxiv/tsxbv/
 
 
 ## What is your biggest frustration at the moment in terms of the adoption of open science practices in archaeology?
