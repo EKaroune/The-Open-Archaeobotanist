@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Open Archaeobotanist Guest Blog
-subtitle: Liying Wang - PhD
+subtitle: Dr Liying Wang 
 gh-repo: ekaroune/the-open-archaeobotanist
 cover-img: asset/img/lwguest.png
 thumbnail-img: asset/img/lwguest.png
@@ -9,14 +9,14 @@ share-img: asset/img/lwguest.png
 tags: [open science, open research, archaeology, taiwan]
 ---
 
-# The Open Archaeobotanist Guest Blog - Liying Wang
+# The Open Archaeobotanist Guest Blog - Dr Liying Wang
 
-**[Liying Wang](https://osf.io/75evz/)** is a recent PhD graduate from the University of Washington. 
+**[Dr Liying Wang](https://osf.io/75evz/)** is a recent PhD graduate from the University of Washington. 
 She is working at the forefront of open archaeology by incorporating all aspects of open research into to her PhD project that focuses on the European colonization period in Taiwan. 
 
 # Why I am an Open _Archaeologist_. 
 
-![Liying Wang picture](../asset/img/lwpic.png)
+![Dr Liying Wang picture](../asset/img/lwpic.png)
 
 ## Why did you become an Open Archaeologist?
 
