@@ -63,15 +63,15 @@ We aim to create a friendly, supportive space for working together and guiding p
 
 My papers with open science practices can be found here: 
 
-* Wang, L. Y. and Marwick, B. (accepted in Aug 2021) A Bayesian networks approach to infer social changes in burials in northeastern Taiwan during the European colonization period. Journal of Archaeological Science, pre-print, data & code: https://osf.io/preprints/socarxiv/3vfea
+* Wang, L. Y. and Marwick, B. (accepted in Aug 2021) A Bayesian networks approach to infer social changes in burials in northeastern Taiwan during the European colonization period. Journal of Archaeological Science, [pre-print, data & code](https://osf.io/preprints/socarxiv/3vfea).
 
-* Wang, L. Y. and Marwick, B. (2020) Ornaments as indicators of social changes resulting from indirect effects of colonialism in northeastern Taiwan. Archaeological Research in Asia 24. https://doi.org/10.1016/j.ara.2020.100226, pre-print, data & code: https://doi.org/10.31235/osf.io/z9p5k
+* Wang, L. Y. and Marwick, B. (2020) Ornaments as indicators of social changes resulting from indirect effects of colonialism in northeastern Taiwan. Archaeological Research in Asia 24. [https://doi.org/10.1016/j.ara.2020.100226](https://doi.org/10.1016/j.ara.2020.100226), [pre-print, data & code](https://doi.org/10.31235/osf.io/z9p5k).
 
-* Wang, L. Y. and Marwick, B. (2020) Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. Journal of Archaeological Science: Reports 33. https://doi.org/10.1016/j.jasrep.2020.102554, pre-print, data & code: https://osf.io/preprints/socarxiv/q8hn9/
+* Wang, L. Y. and Marwick, B. (2020) Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. Journal of Archaeological Science: Reports 33. [https://doi.org/10.1016/j.jasrep.2020.102554](https://doi.org/10.1016/j.jasrep.2020.102554), [pre-print, data & code](https://osf.io/preprints/socarxiv/q8hn9/)
 
 The paper I coauthored about teaching replication assignments can be found here: 
 
-* Marwick, B., Wang, L. Y., Robinson, R., & Loiselle, H. (2019) How to use replication assignments for teaching integrity in empirical archaeology. Advances in Archaeological Practice, 8(1), 78-86. https://doi.org/10.1017/aap.2019.38, pre-print, data & code: https://osf.io/preprints/socarxiv/tsxbv/
+* Marwick, B., Wang, L. Y., Robinson, R., & Loiselle, H. (2019) How to use replication assignments for teaching integrity in empirical archaeology. Advances in Archaeological Practice, 8(1), 78-86. [https://doi.org/10.1017/aap.2019.38](https://doi.org/10.1017/aap.2019.38), [pre-print, data & code](https://osf.io/preprints/socarxiv/tsxbv/).
 
 
 ## What is your biggest frustration at the moment in terms of the adoption of open science practices in archaeology?
@@ -88,19 +88,19 @@ I was inspired a lot by Dr. Ben Marwick’s work, especially his paper [“Packa
 I have been applying this approach to my work, and I especially thank Dr. Marwick for leading me to the world of open science, so that I can become an open archaeologist. 
 
 Another piece I found very useful is by Jesse Alston and Jessica Rick (2020) that provides clear guidance for conducting reproducible research. 
-They are ecologists, not archaeologists, but their paper is very suitable for beginners in any field to get started with: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1801.  
+They are ecologists, not archaeologists, but their paper is very suitable for beginners in any field to get started with: [https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1801](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1801).  
 
 In addition, more and more recent archaeological papers make their data and code openly available. 
 These can be found on the [list compiled on the GitHub page](https://github.com/benmarwick/ctv-archaeology). 
 This list has more than 200 papers that are great examples of doing open research in archaeology. 
-The Society of Archaeological Sciences has been promoting these papers on their social media channels, such as Twitter (https://twitter.com/socarchsci). 
+The Society of Archaeological Sciences has been promoting these papers on their social media channels, such as [our Twitter](https://twitter.com/socarchsci). 
 
 ## What one thing could an archaeological researcher do to easily make their work more open?
 
 I think sharing our work on online trustworthy repositories (such as OSF, zenodo, dataverse, your university repository, etc.) and preprint services, could be easily achieved by most archaeological researchers. 
 I especially recommend uploading our work before, or at the time of publication, to preprint services to enable maximum accessibility, then people can read your work even if they don’t have access to a university library. 
 This offers benefits to both authors and readers by sharing and reading early and openly. 
-We can also submit our manuscript to the preprint open peer review system, Peer Community In Archaeology (https://archaeo.peercommunityin.org/), which is an exciting new way to publish our manuscript openly. 
+We can also submit our manuscript to the preprint open peer review system, [Peer Community In Archaeology](https://archaeo.peercommunityin.org/), which is an exciting new way to publish our manuscript openly. 
 
 
 
