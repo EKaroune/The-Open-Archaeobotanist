@@ -1,6 +1,6 @@
 # The Open Archaeobotanist
 
-[![DOI](https://zenodo.org/badge/306341081.svg)](https://zenodo.org/badge/latestdoi/306341081)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5179986.svg)](https://doi.org/10.5281/zenodo.5179986)
 
 ***This is a blog site about my open archaeobotanical work, open science things I get up to and other peoples open work!***
 
