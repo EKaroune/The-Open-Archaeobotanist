@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Open Archaeobotanist Guest Blog
-subtitle: Liying Wang - PhD Candidate
+subtitle: Liying Wang - PhD
 gh-repo: ekaroune/the-open-archaeobotanist
 cover-img: asset/img/lwguest.png
 thumbnail-img: asset/img/lwguest.png
@@ -11,8 +11,8 @@ tags: [open science, open research, archaeology, taiwan]
 
 # The Open Archaeobotanist Guest Blog - Liying Wang
 
-**[Liying Wang](https://osf.io/75evz/)** is a PhD Candidate at the University of Washington. 
-She is working at the forefront of open archaeology by incorporating all aspects of open research into to her current PhD project that focuses on the colonization period in Taiwan. 
+**[Liying Wang](https://osf.io/75evz/)** is a recent PhD graduate from the University of Washington. 
+She is working at the forefront of open archaeology by incorporating all aspects of open research into to her PhD project that focuses on the European colonization period in Taiwan. 
 
 # Why I am an Open _Archaeologist_. 
 
@@ -71,7 +71,7 @@ My papers with open science practices can be found here:
 
 The paper I coauthored about teaching replication assignments can be found here: 
 
-* Marwick, B., Wang, L. Y., Robinson, R., & Loiselle, H. (2019) How to use replication assignments for teaching integrity in empirical archaeology. Advances in Archaeological Practice, 8(1), 78-86. https://doi.org/10.1017/aap.2019.38 pre-print, data & code: https://osf.io/preprints/socarxiv/tsxbv/
+* Marwick, B., Wang, L. Y., Robinson, R., & Loiselle, H. (2019) How to use replication assignments for teaching integrity in empirical archaeology. Advances in Archaeological Practice, 8(1), 78-86. https://doi.org/10.1017/aap.2019.38, pre-print, data & code: https://osf.io/preprints/socarxiv/tsxbv/
 
 
 ## What is your biggest frustration at the moment in terms of the adoption of open science practices in archaeology?
