@@ -102,5 +102,6 @@ I especially recommend uploading our work before, or at the time of publication,
 This offers benefits to both authors and readers by sharing and reading early and openly. 
 We can also submit our manuscript to the preprint open peer review system, [Peer Community In Archaeology](https://archaeo.peercommunityin.org/), which is an exciting new way to publish our manuscript openly. 
 
-
+To cite this blog, please use this citation:
+Emma Karoune, Esther Plomp, & LI-YING WANG. (2021). EKaroune/The-Open-Archaeobotanist: The Open Archaeobotanist Blog October 2020 to August 2021 (v1.1). Zenodo. https://doi.org/10.5281/zenodo.5179986
 
