@@ -93,7 +93,7 @@ They are ecologists, not archaeologists, but their paper is very suitable for be
 In addition, more and more recent archaeological papers make their data and code openly available. 
 These can be found on the [list compiled on the GitHub page](https://github.com/benmarwick/ctv-archaeology). 
 This list has more than 200 papers that are great examples of doing open research in archaeology. 
-The Society of Archaeological Sciences has been promoting these papers on their social media channels, such as [our Twitter](https://twitter.com/socarchsci). 
+The Society of Archaeological Sciences has been promoting these papers on their social media channels, such as [Twitter](https://twitter.com/socarchsci). 
 
 ## What one thing could an archaeological researcher do to easily make their work more open?
 
@@ -104,5 +104,5 @@ We can also submit our manuscript to the preprint open peer review system, [Peer
 
 To cite this blog, please use this citation below:
 
-Emma Karoune, Esther Plomp, Jennifer Bates & LI-YING WANG. (2021). EKaroune/The-Open-Archaeobotanist: The Open Archaeobotanist Blog October 2020 to August 2021 (v1.1). Zenodo. [https://doi.org/10.5281/zenodo.5179986](https://doi.org/10.5281/zenodo.5179986).
+Emma Karoune, Esther Plomp, Jennifer Bates & Li-Ying Wang. (2021). EKaroune/The-Open-Archaeobotanist: The Open Archaeobotanist Blog October 2020 to August 2021 (v1.1). Zenodo. [https://doi.org/10.5281/zenodo.5179986](https://doi.org/10.5281/zenodo.5179986).
 
