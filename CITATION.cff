@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: The Open Archaeobotanist
+message: Please use this information to cite this work.
+type: software
+authors:
+  - family-names: Karoune
+    given-names: Emma
+    email: ekaroune@turing.ac.uk
+    affiliation: The Alan Turing Institure
+    orcid: 'https://orcid.org/0000-0002-6576-6053'
+  - given-names: Esther
+    family-names: Plomp
+    affiliation: TU Delft
+    orcid: 'https://orcid.org/0000-0003-3625-1357'
+  - given-names: Li-Ying
+    family-names: Wang
+    affiliation: University of Washington
+    orcid: 'https://orcid.org/0000-0001-9060-2125'
+  - given-names: Jennifer
+    family-names: Bates
+    orcid: 'https://orcid.org/0000-0002-7100-4741'
+    affiliation: Seoul National University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.5062417
+    description: Version v1.0 - October 2020 to July 2021
+  - type: doi
+    value: 10.5281/zenodo.5179986
+    description: Version 1.1 - October 2020 to August 2021
+repository-code: >-
+  https://github.com/EKaroune/The-Open-Archaeobotanist
+url: >-
+  https://ekaroune.github.io/The-Open-Archaeobotanist/
+abstract: >-
+  This is an archive of the repository for The Open
+  Archaeobotanist blog created by Emma Karoune. This
+  is a blog about my open archaeobotanical work, open
+  science things I get up to and other peoples open
+  work! With guest bloggers Jennifer Bates, Esther
+  Plomp and Liying Wang.
+keywords:
+  - Archaeobotany
+  - Open Science
+  - Open Data
+  - Open Access
+  - Open Source
+license: CC-BY-4.0
