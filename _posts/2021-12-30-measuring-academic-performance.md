@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Assessing academic performance
+title:  Measuring academic performance
 subtitle: How should we be assessing our academic performance at the end of the year?
 gh-repo: ekaroune/the-open-archaeobotanist
 cover-img: asset/img/dec-blog.jpg
@@ -8,7 +8,7 @@ thumbnail-img: asset/img/dec-blog.jpg
 share-img: asset/img/dec-blog.jpg
 tags: [open science, open research, archaeology, research metrics]
 ---
-# Assessing academic performance
+# Measuring academic performance
 
 ## How should we be assessing our academic performance at the end of the year?
 
