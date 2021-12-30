@@ -1,4 +1,16 @@
-# How should we be assessing our academic performance at the end of the year?
+---
+layout: post
+title:  Assessing academic performance
+subtitle: How should we be assessing our academic performance at the end of the year?
+gh-repo: ekaroune/the-open-archaeobotanist
+cover-img: asset/img/dec-blog.jpg
+thumbnail-img: asset/img/dec-blog.jpg
+share-img: asset/img/dec-blog.jpg
+tags: [open science, open research, archaeology, research metrics]
+---
+# Assessing academic performance
+
+## How should we be assessing our academic performance at the end of the year?
 
 As it is the end of the year, it is an opportune moment to look back and consider what we have all achieved this year. *But how should we be assessing our research activities?* *What constitutes a success or achievement for us as academics?* *Should we still be using traditional metrics or concentrating on newer assessment measures based on an open research ethos*.
 
